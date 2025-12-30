@@ -1,0 +1,5 @@
+### GET with open session in view
+GET http://localhost:8080/orders/osiv
+
+### GET fetch relations
+GET http://localhost:8080/orders/fetch
